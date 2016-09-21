@@ -9,6 +9,7 @@ import android.support.v7.app.AppCompatActivity;
  * a
  * b
  * c
+ * d
  */
 public class BaseActivity extends AppCompatActivity {
 }
