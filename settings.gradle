@@ -1,1 +1,4 @@
 include ':app'
+include ':lib_uilib'
+
+project(':lib_uilib').projectDir = new File(settingsDir, 'Lib/WKLib/wkviewlib')

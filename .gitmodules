@@ -1,0 +1,7 @@
+[submodule "NicePai"]
+	path = NicePai
+	url = https://github.com/aheadlcx/NicePai
+[submodule "Lib/WkLib"]
+	path = Lib/WkLib
+	url = https://github.com/aheadlcx/wkzfLib
+	branch = inden
